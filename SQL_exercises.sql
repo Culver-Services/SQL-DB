@@ -38,7 +38,7 @@ WHERE tbl_species.species_name ='Dog';
 
 -- Create a database with two tables. Assign a foreign key constraint on one table that shares 
 -- related data with the primary key on the second table. Finally, create a statement that queries data from both tables.
-CREATE DATABASE student_test;
+CREATE DATABASE student_assignment7;
 
 CREATE TABLE tbl_student (
 	student_id int primary key NOT NULL identity (1,1),
