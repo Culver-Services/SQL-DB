@@ -124,8 +124,8 @@ ORDER BY student_name ASC;
 	
 
 -- 13. Run a query that displays all classes, with the students and Instructors assigned to each.
+SELECT student_name, instructor_name, class_name
 FROM tbl_students
-SELECT Student_name, instructor_name, class_name				
 INNER JOIN tbl_instructors ON tbl_instructors.instructor_id = tbl_students.studentInstructor_id
 INNER JOIN tbl_classes ON tbl_classes.class_id = tbl_students.studentClass_id
 
