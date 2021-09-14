@@ -1,8 +1,8 @@
 	-- 1. create a “School” database.
 
-CREATE DATABASE SchoolDB-2021;									
+CREATE DATABASE SchoolDB;									
 
-USE SchoolDB-2021;
+USE SchoolDB;
 
 
 -- 2. Create a “Classes” table, with the following columns:
