@@ -1,4 +1,4 @@
-# The-Tech-Academy-School-DB
+# Habitat-and-School-DB
 
 Creating of a School Database 
 
