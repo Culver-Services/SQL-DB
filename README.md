@@ -1,3 +1,3 @@
-# The-Tech-Academy-Basic-SQL-Projects
+# The-Tech-Academy-School-DB
 
 Creating of a School Database 
